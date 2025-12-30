@@ -1,0 +1,42 @@
+CLASS TEST 
+M.M : 50 
+
+Question - 1
+Python program to calculate GST Goods and Service Tax
+
+Question - 2
+Python program to find the ASCII Value of entered character
+
+Question - 3
+Python program to generate the following output 5 10 9
+
+Question - 4
+Python program to take the temperatures of all 7 days of the week and displays the average temperature of that week
+
+Question - 5
+
+Python program to obtain three numbers and print their sum
+
+Question - 6
+
+Python program to input a number and print its cube
+Question - 7
+
+Python program to calculate the compound interest
+Question - 8
+
+Python program to find sale price of an item with given price and discount
+Question - 9
+
+WAP :- To create menu 1) insert 2) display 3) delete 4) exit by using class and object with file handling
+
+Question - 9
+
+WAP:- to create nested module by using find out cube and swap of 2 no 
+
+Question - 10
+
+write short notes on
+a) view vs copy and shape vs reshape in numpy
+b) to add of  matrix in numpy and read data of excel sheet by using pandas
+c) to create pia chart and bar chart in matplotlib
