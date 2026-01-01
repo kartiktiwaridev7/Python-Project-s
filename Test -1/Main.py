@@ -50,3 +50,50 @@
 # temp = (a+b+c+d+e+f+g)/7
 
 # print("The Avg temp " , temp)
+
+# Question - 5
+# Python program to obtain three numbers and print their sum
+
+# print("=====Sum======")
+
+# a= int(input("Enter the first number\n"))
+# b = int(input("Enter the 2nd Number\n"))
+# c = int(input("Enter the 3rd number\n"))
+
+# sum = a+b+c
+
+# print("The sum of the all three number's\n" ,sum)
+
+# Question - 6
+# Python program to input a number and print its cube
+
+# print("====Find Cube=====")
+# a = int(input("Enter the cube number -----\n"))
+# cube = a*a*a
+# print("Cube number is " ,cube)
+
+# Question - 7
+# Python program to calculate the compound interest
+
+# print("========Compund Intrest Calculator===========")
+
+# P = float(input("Enter the principal amount----\n"))
+
+# R = float(input("Enter the rate or percentage "))
+
+# T = float(input("Enter the time span\n"))
+
+# A = P * (1 + R/100) ** T
+# CI = A - P
+# print(f"Compound interest: {CI:.2f}")
+
+# Question - 8
+# Python program to find sale price of an item with given price and discount
+
+# print("=====Sale Price Calculator=======")
+
+# Orignal_Amount = float(input("Enter the Orignal Amount of the product : \n"))
+# Disc_perentage = float(input("Enter the Discount Percentage of the prduct : \n"))
+
+# Discount_Amount = Orignal_Amount * (Disc_perentage/ 100)
+# print("So your final price is the ", Discount_Amount)
