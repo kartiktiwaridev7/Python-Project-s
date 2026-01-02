@@ -1,0 +1,43 @@
+Object --
+  Kisi Bhi chij ko object banaya ja sakta par usko bananne se pahle class banaya jata hai 
+
+class ---
+Class is like blueprint for creating object .
+
+
+Constructor
+__init__function---
+All classes have a function called __init__() which is alwayse excepted when the object is being initiated .
+Chhahe aap __init__ function likho ya na likho humara python program automatically cll karke __init__ function ko use jarror karega bcz this is the 
+Constructor for our program .
+
+Self---
+We use self to store and access data of the current object in Python OOP.
+"self refers to the current object. It is used to access and store instance variables and to identify which object is calling the method."
+
+Esa jaruri nahi ki hum parameter mai self word hi likhe hum iski jagah par abcd bhi likh sakte hai par self normally programmming mai use hota hai .
+
+The self parameter  is a reference to the current instance(object) of the class , and is used to access variable that is belong to the class .
+
+#default Constructor
+ Agar Default Constructor ko hum nahi banayenge to unhe Python apne aap bana dega 
+ A default constructor is one that takes no arguments other than the mandatory self reference. 
+
+ class Dog:
+    def __init__(self):
+        self.species = "Canine" # Initializes all objects with the same value
+        self.sound = "Woof"
+
+
+2. Parameterized Constructor
+A parameterized constructor accepts one or more arguments in addition to self. This type allows you to pass specific
+ data at the time of object creation, ensuring each object can have unique initial values. 
+
+ class Dog:
+    def __init__(self, name, age):
+        self.name = name # Initializes objects with unique, custom values
+        self.age = age
+
+# Creating instances with specific values
+dog1 = Dog("Buddy", 3)
+dog2 = Dog("Max", 5)
