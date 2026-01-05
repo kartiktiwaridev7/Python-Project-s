@@ -41,3 +41,7 @@ A parameterized constructor accepts one or more arguments in addition to self. T
 # Creating instances with specific values
 dog1 = Dog("Buddy", 3)
 dog2 = Dog("Max", 5)
+
+Class.attr----
+     Ye wo attrbutes hote hai jo ki pure class 
+     

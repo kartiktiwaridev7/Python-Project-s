@@ -1,0 +1,17 @@
+Correct explanation (important)
+
+self represents the current object
+
+self.name means “name that belongs to this specific object”
+
+Without self, the variable exists only inside the function, not inside the object
+
+def __init__(self, name):
+    name = name   # local variable, destroyed after function ends
+print(s1.name)
+
+❌ Error, because the object never stored name.
+
+🔹 One-line rule (memorize this)
+
+If you want data to live inside an object, you must attach it to self.
