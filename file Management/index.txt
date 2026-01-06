@@ -1,0 +1,8 @@
+1---
+Write a program that:
+
+Creates a file called mydata.txt
+
+Writes your name into it
+
+Reads the file and prints the content
