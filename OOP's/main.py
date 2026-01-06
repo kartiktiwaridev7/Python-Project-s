@@ -60,3 +60,15 @@
 # print(s3.name,s3.age)
 
 
+class Animal:
+    def speak(self):
+        print("Animal Speaks")
+
+class Dog(Animal):
+    def bark(self):
+        print("Dog barks")
+
+
+d1 = Dog()
+d1.speak()
+d1.bark()
