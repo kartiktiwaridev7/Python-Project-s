@@ -1,7 +1,8 @@
 import qrcode;
 
-print(" Hello Ji this is the QR Code Genrator JI ")
+print(" Hello Ji this is the QR Code Genrator JI  ")
 
+print( " In this code you genrate the QR Code through the link ")
 QR_Code = input(" Enter the Exact QR Code link that you want to genrate the link \n")
 
 # Genrate the Img of the QR Code
