@@ -12,7 +12,7 @@ class booking:
 class cancelation(booking):
     def insert(x):
         f = open("cancel.txt","w")
-        ticketno = str(input("enter the ticket no"))
+        ticketno = str(input("enter the full ticket no"))
         f.write(ticketno)
         f.close()
     def display(x):
