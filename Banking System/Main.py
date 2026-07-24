@@ -31,7 +31,7 @@ b = booking()
 c = cancelation()
 t = tatkal()
 
-ans = int(input("do u want to count (1/0)"))
+ans = int(input("Do you want to count (1/0)"))
 while(ans == 1):
     print("Indian railway Reservation")
     print("1 Booking")
