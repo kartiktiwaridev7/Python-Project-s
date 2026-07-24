@@ -1,7 +1,7 @@
 class booking:
     def insert(x):
         f = open("book.txt","w")
-        pname=str(input("enter the passenger name"))
+        pname=str(input("enter the full passenger name"))
         f.write(pname)
         f.close()
     def display(x):
