@@ -2,7 +2,7 @@ print("=========Hospital Management Sysytem===========")
 menu = input("What do You want 1) Transport Sysytem\n 2) Doctor \n 3) Want to by Medicine\n 4) Pay the Bill \n ")
 
 if(menu == "1"):
-    Name = input("Enter The Passenger Name\n")
+    Name = input("Enter The full Passenger Name\n")
     ID = input("Enter the Passenge Name \n")
     Address = input("Enter The Passenge Addrees\n")
     root = input("Please select the root\n")
