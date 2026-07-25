@@ -24,4 +24,4 @@ elif(menu == "4"):
     print("Thanks for the payement Sir\Mam")
 
 else:
-    print("You Choose Somthing wrong \n Please try Again 😒(●'◡'●)")
+    print("You Choose Somthing wrong \n Please Retry 😒(●'◡'●)")
