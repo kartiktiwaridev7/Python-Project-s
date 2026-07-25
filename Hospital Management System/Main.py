@@ -10,7 +10,7 @@ if(menu == "1"):
 
 elif(menu == "2"):
     Disease = input("Please enter the Disease \n")
-    Experince = input("Please tell us How Much Experinced Dotor do you Want \n But the Fee also Increases \n")
+    Experince = input("Please tell us How Much Experinced Dotor do you Want \n according to your patient  \n")
 
 elif(menu == "3"):
     Medicine = input(" What medicine do you want to by \n")
