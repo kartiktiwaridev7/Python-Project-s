@@ -3,7 +3,7 @@ menu = input("What do You want 1) Transport Sysytem\n 2) Doctor \n 3) Want to by
 
 if(menu == "1"):
     Name = input("Enter The full Passenger Name\n")
-    ID = input("Enter the Passenge Name \n")
+    ID = input("Enter the Passenge ID\n")
     Address = input("Enter The Passenge Addrees\n")
     root = input("Please select the root\n")
     print("Thanks for using our services\nWe Are Available for 24/7 😊")
