@@ -1,7 +1,7 @@
 import random
 
 char = "123456789!@#$%^&*()ABCDEGHIJKLMNOPQRSTUVWXYZ"
-
+print(" Through this code you can genrate you password ")
 num = int(input("Please enter the length of password\n :"))
 
 passw = ""
