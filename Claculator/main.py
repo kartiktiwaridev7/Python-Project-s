@@ -7,19 +7,23 @@ for i in range(time):
     if(menu == "1"):
         sum = a+b
         print(sum)
+        
+print("Program is completed ")
 
     elif(menu == "2"):
         minus = a-b
         print(minus)
+print("Program is completed ")
 
     elif(menu == "3"):
         multi = a*b
         print(multi)
+print("Program is completed ")
 
     elif(menu == "4"):
         division = a/b
         print(division)
-
+print("Program is completed ")
     
 
     else:
