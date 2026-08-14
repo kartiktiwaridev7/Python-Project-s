@@ -25,3 +25,5 @@ elif(menu == "4"):
 
 else:
     print("You Choose Somthing wrong \n Please Retry 😒(●'◡'●)")
+
+print("Program is ended")
