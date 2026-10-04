@@ -45,7 +45,7 @@ while(ans == 1):
         print("2 Dispaly")
         print("3 Exit")
 
-        y = int(input("Select choice 1 to 3"))
+        y = int(input("Select choice b/w 1 to 3"))
         if(y ==1):
             b.insert()
 
