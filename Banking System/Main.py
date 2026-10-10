@@ -40,7 +40,7 @@ while(ans == 1):
     print("4 exit")
     x = int(input("select choice 1 to 4"))
     if(x == 1):
-        print("Welcome To Booking dept!")
+        print("Welcome To Booking department!")
         print("1 Insert ")
         print("2 Dispaly")
         print("3 Exit")
