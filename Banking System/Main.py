@@ -53,7 +53,7 @@ while(ans == 1):
             if(y == 2):
                 b.display()
             else:
-                print("exit from bookig menu")
+                print("exit from ticket bookig menu")
     else:
         if(x == 2):
             c.insert()
