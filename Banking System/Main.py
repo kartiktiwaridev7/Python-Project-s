@@ -1,3 +1,5 @@
+print(" This is the hospital system ")
+
 class booking:
     def insert(x):
         f = open("book.txt","w")
