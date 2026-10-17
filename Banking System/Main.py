@@ -1,4 +1,3 @@
-print(" This is the hospital system ")
 
 class booking:
     def insert(x):
