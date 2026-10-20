@@ -1,4 +1,3 @@
-print("hello")
 class booking:
     def insert(x):
         f = open("book.txt","w")
