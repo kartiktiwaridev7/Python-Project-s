@@ -68,3 +68,5 @@ while(ans == 1):
 ans = int(input("Do U want to count(1/0)"))
 print(" I hope you like my code" ) 
 input(" If you want to say something then tell me ")
+
+print(" Code is ending here so bhag jao yaha se ") 
