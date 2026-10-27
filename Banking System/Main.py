@@ -1,3 +1,4 @@
+print("From here our code is started ") 
 class booking:
     def insert(x):
         f = open("book.txt","w")
