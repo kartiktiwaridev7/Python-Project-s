@@ -1,4 +1,4 @@
-time = int(input("Enter the number how many times you want to perform calculation \n"))
+time = int(input("Enter the number how many times you want to perform calculation here \n"))
 for i in range(time):
     print("Your Number of iteration is :" , i+1)
     a = int(input("Enter a number \n"))
